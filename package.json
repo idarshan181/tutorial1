@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://idarshan181.github.io/monsters-rolodex",
+  "homepage": "https://idarshan181.github.io/tutorial1",
   "dependencies": {
     "@material-ui/core": "^4.9.3",
     "@popperjs/core": "^2.0.6",
