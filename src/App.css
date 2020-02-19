@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 48px;
+  color: white;
+}
